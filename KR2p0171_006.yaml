@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0171/chant/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 嬰兒瘛嬰兒瘛嬰兒瘈者目繲然脅痛息癭癭然𡱁不化而青取屋榮蔡薪燔之而匕焉為湮汲三渾盛以杯因唾匕祝之曰噴者豦噴上如星下如䏽血取若門左斬若門右為若不已磔薄若市因以匕周抿嬰兒瘛所而灑之杯水中候之有血如蠅羽者而棄之於垣更取水復唾匕以抿如前毋徵數復之徵盡而止令
+  hash: sha256:bc2f3ec25630571cefac7aecf811a4d57377624b5e0782d92d24daffed21831e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_006-1a.1-h}
+metadata:
+  title: 五十二病方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0171.xml
+hash: sha256:c2d8df8f373f140dc0f42603bc4f74ed1d6a118028eb94e5e80a41223c532897

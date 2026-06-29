@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0171/chant/v1/juan/13
+seq: 13
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蛭食蛭食人胻股膝産其中者并黍叔秫三炊之蒸病一蛫傅之
+  hash: sha256:4eda21bd1ade03059e91a9e93258551258ede338eefa2afb293a541975dfcc73
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_013-1a.1-h}
+metadata:
+  title: 五十二病方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0171.xml
+hash: sha256:b6fee1afc7a722655fc6474f706356953b05ea5db2242035bdc00988954929ef

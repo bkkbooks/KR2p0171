@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0171/chant/v1/juan/27
+seq: 27
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 諸食病缺文
+  hash: sha256:99c6fa39a2a39872968d2c60a730d9304be2aba3bfc44a9110762a54e2ee6e3c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_027-1a.1-h}
+metadata:
+  title: 五十二病方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0171.xml
+hash: sha256:1e191e54d34b822e27d0af5738b6ccc77ba48841ea0a39cd6d54c8202467403d

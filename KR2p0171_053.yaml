@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0171/chant/v1/juan/53
+seq: 53
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 治㾺治㾺㾺者癰痛而潰㾺居右馬右頰骨左馬左頰骨燔冶之叔取汁灑以彘膏已湔者膏之而以冶馬頰骨傅布膏更裹再膏傅而灑以叔汁草日㾺己嘗試令一㾺㾺者有牝牡牡高膚牝有空治以丹為一合撓之以豬織膏和傅之有去者輒逋之勿灑面靤赤已一㾺㾺者癰而潰用良叔雷矢各而之以傅癰空中傅藥必先灑之日一灑傅藥傅藥六十日㾺筮取莓莖暴乾之毋已飲此得卧卧䁷更得已解弱乾莓用之根乾之剡取皮采根十斗以美
+  hash: sha256:8a14c778fdbb757e067716fa6766847144e1be70f3389f609e367a12b62661c3
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_053-1a.1-h}
+metadata:
+  title: 五十二病方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0171.xml
+hash: sha256:a2d84e39de41c77eae39a1f7c6c84e4453570861ae4799e7eeae68533cf3a388

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0171/chant/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爛者闌者方以人泥塗之以犬毛若羊毛封之不已復以一闌者爵糵米足取汁而煎令類膠即冶厚柎和傅一熱者古曰肸肸詘詘從竈出毋延黃神且與言即三涶之一其祝曰浸浸蟲黃神在竈中遠黃神興一煮秫米期足毚孰浚而熬之令為灰傅之數日乾以汁弁之一以鷄卵弁兔毛傅之一冶糵米以乳汁和傅之不痛不瘢一燔魚衣以其灰傅之一燔敝褐冶布以傅之一漬女子布以汁傅之一烝𡇒土裹以熨之一浴湯熱者熬彘矢漬以封之一以湯大熱者熬彘矢以酒挐封之一般者以水銀二男子惡四丹一并和置突上二三月盛即囊而傅之傅之居室塞窗閉戶毋出私內中毋見星月一月百日己一去故般善削瓜壯者而其瓣材其瓜其如兩指以靡般令之以傅之乾有傅之三而己必善齊戒毋而已一者靡以以汁傅產膚一般者燔之令灰以如故膚一一取秋竹者之而以氣熏其痏己
+  hash: sha256:945f668975320a3ab8f6bd5eded48631da6a2df9fd925a6de62e08a1b3e968a4
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_040-1a.1-h}
+metadata:
+  title: 五十二病方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0171.xml
+hash: sha256:83655eeeeab1d47aea311b99feefe2b919ffce4bc37b07aafbc4eb163d1a717a

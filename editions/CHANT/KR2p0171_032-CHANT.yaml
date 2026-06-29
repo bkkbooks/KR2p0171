@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0171/chant/v1/juan/32
+seq: 32
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 穜㯱穜㯱穜㯱者黑實㯱不去治之取馬矢觕者三斗孰析沃以水水清止浚去汁洎以酸漿斗取芥衷莢壹用智四五用穜去毋禁毋時令
+  hash: sha256:bd7cc6b911b8e886ca053c143e4899a129db7ecb0f1ab1afc4b92611bca88508
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_032-1a.1-h}
+metadata:
+  title: 五十二病方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0171.xml
+hash: sha256:3a8bf94c18911c038fe5e7f74f164e0d666633b5c546867af91d7bddbebcf47a

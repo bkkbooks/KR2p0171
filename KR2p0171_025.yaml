@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0171/chant/v1/juan/25
+seq: 25
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人病羊不間缺文
+  hash: sha256:1a4ff600362cc4ee12ca871ae47a7be3f8e1e64ba040a3c9456ba9a2df6c1048
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_025-1a.1-h}
+metadata:
+  title: 五十二病方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0171.xml
+hash: sha256:7168912839c8d5787c8efeb1db31bcd06d5a3a13eb6726b0f25251d8deabcd1d

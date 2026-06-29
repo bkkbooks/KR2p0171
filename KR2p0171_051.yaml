@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0171/chant/v1/juan/51
+seq: 51
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鬾禹步三取桃東枳中別為之儈而笄門戶上各一一祝曰濆者鬾父鬾母毋匿北巫婦求若固得若四𦡊編若十指投若水人殹人殹而比鬼每行以采蠡為車以敝箕為輿乘人黑豬行人室家若徹鬾鬾所
+  hash: sha256:38c13b53eec3e9acd3ca73ea61cbb23790effc41527dd1e1beb5fd9460ab0b7f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_051-1a.1-h}
+metadata:
+  title: 五十二病方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0171.xml
+hash: sha256:102474891f141775a80c72c620daf7c3514e86e7e7f486e68d857cadd6712491

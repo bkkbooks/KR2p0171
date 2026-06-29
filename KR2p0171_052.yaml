@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0171/chant/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 去人馬尤去人馬疣方取段鐵者灰三以鍑煮安炊之勿令疾沸不盡可一升以金去復再三傅其處而已嘗試毋禁令一去人馬疣疣其末大本小者取夾白柎繩之以堅潔手結疣去矣毋禁毋禁嘗試令
+  hash: sha256:6af295010f42b138186418b356381740f0e71a48020b89622f0361e5caed4d99
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_052-1a.1-h}
+metadata:
+  title: 五十二病方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0171.xml
+hash: sha256:e5d11cf2f3914161af4f8c3b163ad529520db1c6c36772bc66b78ad8af810ec9

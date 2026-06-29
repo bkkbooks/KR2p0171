@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0171/chant/v1/juan/41
+seq: 41
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 胻膫胻膫治胻膫取陳黍叔冶以犬膽和以傅一取無夷中𩅢冶豶膏以䊟熱膏沃冶中和以傅一取雉二孰者餘疾雞羽自解隋其尾皆燔冶取灰以豬膏和傅一夏日取堇葉冬日取其本皆以甘沮而封之乾輒封其上此皆已驗
+  hash: sha256:e84b1dbe9836fe80f66995a4069cc8851499afa3a8ef8087c8e1911c3d71af20
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_041-1a.1-h}
+metadata:
+  title: 五十二病方釋文
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0171.xml
+hash: sha256:da3842eeb7ef5203c4efbfda44611897535bdca7f8271fd1fe906c16f7c65308
