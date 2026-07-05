@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 𤼚𤼚以財餘薤一一濡以鹽傅之令牛吔之一以疾黎白蒿封之一唾之賁兄父産大山而居谷下不而而鳳鳥尋尋豙且貫而心一父居蜀母為鳳鳥蓐毋敢上下尋鳳貫而心
-  hash: sha256:98d99b38f6f351954fc0f5786c3107d009963fa82e7faec7569e54e445393893
+  text: 𤼚𤼚以財餘薤一一濡以鹽傅之令牛吔之一以疾黎白蒿封之一涶之賁兄父產大山而居谷下不而而鳳鳥尋尋豙且貫而心一父居蜀母為鳳鳥蓐毋敢上下尋鳳貫而心
+  hash: sha256:24e1bd690e72393d4a5532e0241f6e11c9bbaeed485669e307f121f99e1f5683
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_012-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0171.xml
-hash: sha256:a78b0807e5f0b9bd82df9df4ec5150e5a8afdccafd819cc2dab23b902eb87bec
+hash: sha256:951bada7a9c9cb8c70fd3e8c29a99c37eec5c0098e9871acb3d0f014f92c4b6e

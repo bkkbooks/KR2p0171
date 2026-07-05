@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 犬筮人犬筮人傷者取丘引矢二升以井上罋㡭處土與等并熬之而以美醯之稍垸以尉其傷犬毛盡傅傷而已一煮莖以汁灑之冬日煮其本一犬所齧令毋痛及易瘳方令齧者卧而令人以酒財沃其傷已沃而越之嘗試毋禁
-  hash: sha256:b50da6bacd59354e99f052a8c2c9ca1975410e881e0bb765411c8c0f11dc6e84
+  text: 犬筮人犬筮人傷者取丘引矢二升以井上罋㡭處土與等并熬之而以美醯之稍垸以熨其傷犬毛盡傅傷而已一煮莖以汁洒之冬日煮其本一犬所齧令毋痛及易瘳方令齧者卧而令人以酒財沃其傷已沃而越之嘗試毋禁
+  hash: sha256:88ce8573934023f0c324b82af223f47fa9d3d7771783be8efb11dd8b246d77c8
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_008-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0171.xml
-hash: sha256:0cc990a365f5422c160e7a3774864eea59933e8b3507d8aa38c92670b732b061
+hash: sha256:6144974e9df2c80e130011f298325675e5be0cd077ab1761bc97742aa5952de3

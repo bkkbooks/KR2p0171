@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 嬰兒索痙嬰兒索痙索痙者如産時居濕地久其直而口扣筋難以信取封殖土冶之二鹽一合撓而蒸以扁尉直攣筋所道頭始稍手足而已尉寒復蒸尉乾更為令
-  hash: sha256:00070807dab6c310775d4b75a8ce4b1e46a27a163415cd56bc447b194df38fbc
+  text: 嬰兒索痙嬰兒索痙索痙者如產時居濕地久其直而口釦筋難以信取封殖土冶之二鹽一合撓而烝以扁熨直攣筋所道頭始稍手足而已熨寒復烝熨乾更為令
+  hash: sha256:5789466a46ed34d89cb798b1181fb89ab7d58d237df48babbec097ec069ed894
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_004-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0171.xml
-hash: sha256:b746a497c856597831499b4d205e6f6b0c902843d82aae2122914e2ab62d5922
+hash: sha256:c3cd2033afe6db42e3fd516cd5c81dc93403c5106797d08622e3e0d7fc9e0da1

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 嬰兒病間嬰兒病間方取雷尾𡱁矢三果冶以豬煎膏和之小嬰兒以水半斗大者以一斗三分和取一分置水中撓以浴之浴之道頭上始下盡身四支毋濡三日一浴三日已已浴輒棄其水圂中間者身熱而數驚頸脊強而復大間多衆以此藥皆已
-  hash: sha256:03b9bc6c41acff71c7a0c8c514e105e490225e56f70c3a0e88b116af19b45e61
+  text: 嬰兒病間嬰兒病間方取雷尾𡱁矢三果冶以豬煎膏和之小嬰兒以水半斗大者以一斗三分和取一分置水中撓以浴之浴之道頭上始下盡身四支毋濡三日一浴三日已已浴輒棄其水圂中間者身熱而數驚頸脊強而復大間多眾以此藥皆已
+  hash: sha256:ba6073c3c337ea1c52c4ad0e7b0d262bac01b597fae235939742fd4c7ed477da
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_005-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0171.xml
-hash: sha256:588ef0ab66283c6a9b77fcc22da1de5a5f68e52d28ee5e9201a6700a412bea86
+hash: sha256:a6711408d6045e29d5325d2059c070ef86b7dfdf06ec1db54550fa8904fb8f04
