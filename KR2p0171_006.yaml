@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 嬰兒瘛嬰兒瘛嬰兒瘈者目繲然脅痛息癭癭然𡱁不化而青取屋榮蔡薪燔之而匕焉為湮汲三渾盛以桮因唾匕祝之曰噴者豦噴上如星下如䏽血取若門左斬若門右為若不已磔薄若市因以匕周㨉嬰兒瘛所而洒之桮水中候之有血如蠅羽者而棄之於垣更取水復唾匕以㨉如前毋徵數復之徵盡而止令
-  hash: sha256:320fc1b978fb9495eb7e6b89c9373c5d8d85a3a3cc6c6023472767b0145eda6a
+  text: 嬰兒瘛嬰兒瘛嬰兒瘈者目繲然脅痛息癭癭然屎不化而青取屋榮蔡薪燔之而匕焉為湮汲三渾盛以杯因唾匕祝之曰噴者豦噴上如星下如䏽血取若門左斬若門右為若不已磔薄若市因以匕周抿嬰兒瘛所而灑之杯水中候之有血如蠅羽者而棄之於垣更取水復唾匕以抿如前毋徵數復之徵盡而止令
+  hash: sha256:9201ad39590108e8c0c2fe46d1a2571cc53195057c16212cbe46e01bbe01816a
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_006-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0171.xml
-hash: sha256:570bdeab4e0a576af8550d6761f77b0e5ef7c80026bce8d5d1bfd09f274acaa8
+hash: sha256:1f44af4fb37162078b636f3544a09fdacf75f3bd9553b316e70e545b33abc234

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 蛇齧蛇齧以桑汁涂之
-  hash: sha256:261e7a9a4df24c2ba46698849b3ed5705947e0e2de29d16cc46af3f233175814
+  text: 蛇齧蛇齧以桑汁塗之
+  hash: sha256:655d1981c1323f12dadc877e98ae9f6805cdc409ba238157c99798e2d6039c8a
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_044-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0171.xml
-hash: sha256:0bf683b474b31cc1ecc9d73c3f9bd5461ebe094a3891d9897781f454643ed184
+hash: sha256:663a511b8b420fdaa04ccaf9f8d92c4abfd9e0c9a40c0573c2c70ea320f174be

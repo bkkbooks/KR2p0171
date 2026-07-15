@@ -33,6 +33,7 @@ markers:
   - {type: punctuation, offset: 19, content: ，, id: KR2p0171_CHANT_041-bkkpn8}
   - {type: 'tls:seg', offset: 19, content: '', id: KR2p0171_CHANT_041-2a.4}
   - {type: 'tls:seg', offset: 19, content: '', id: KR2p0171_CHANT_041-2a.5}
+  - {type: substitution, offset: 23, original: 𩅢, replacement: 核, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-9801}}
   - {type: punctuation, offset: 24, content: ，, id: KR2p0171_CHANT_041-bkkpn9}
   - {type: 'tls:seg', offset: 24, content: '', id: KR2p0171_CHANT_041-2a.6}
   - {type: 'tls:seg', offset: 24, content: '', id: KR2p0171_CHANT_041-2a.7}
@@ -58,12 +59,14 @@ markers:
   - {type: punctuation, offset: 38, content: ，, id: KR2p0171_CHANT_041-bkkpn15}
   - {type: 'tls:seg', offset: 38, content: '', id: KR2p0171_CHANT_041-3a.4}
   - {type: 'tls:seg', offset: 38, content: '', id: KR2p0171_CHANT_041-3a.5}
+  - {type: substitution, offset: 40, original: 弍, replacement: 二, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20150}}
   - {type: punctuation, offset: 41, content: ，, id: KR2p0171_CHANT_041-bkkpn16}
   - {type: 'tls:seg', offset: 41, content: '', id: KR2p0171_CHANT_041-3a.6}
   - {type: 'tls:seg', offset: 41, content: '', id: KR2p0171_CHANT_041-3a.7}
   - {type: punctuation, offset: 45, content: ，, id: KR2p0171_CHANT_041-bkkpn17}
   - {type: 'tls:seg', offset: 45, content: '', id: KR2p0171_CHANT_041-3a.8}
   - {type: 'tls:seg', offset: 45, content: '', id: KR2p0171_CHANT_041-3a.9}
+  - {type: substitution, offset: 45, original: 鷄, replacement: 雞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19847}}
   - {type: punctuation, offset: 49, content: ，, id: KR2p0171_CHANT_041-bkkpn18}
   - {type: 'tls:seg', offset: 49, content: '', id: KR2p0171_CHANT_041-3a.10}
   - {type: 'tls:seg', offset: 49, content: '', id: KR2p0171_CHANT_041-3a.11}
@@ -111,4 +114,4 @@ markers:
   - {type: 'tls:seg', offset: 89, content: '', id: KR2p0171_CHANT_041-4a.16}
   - {type: xml-element, offset: 89, content: '', id: KR2p0171_CHANT_041-bkkxmlele8, name: p, role: close}
   back: []
-hash: sha256:ee56f956d0a49a9859eba79553269df78e9ff4533590dec4c81766eb660ab054
+hash: sha256:96042f4559e03c33e78befb6797bb1e3eb9e6f9ad417d60bc771bbf7e845361f

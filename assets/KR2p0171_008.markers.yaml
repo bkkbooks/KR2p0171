@@ -13,6 +13,8 @@ markers:
   - {type: punctuation, offset: 14, content: ，, id: KR2p0171_CHANT_008-bkkpn2}
   - {type: 'tls:seg', offset: 14, content: '', id: KR2p0171_CHANT_008-1a.6}
   - {type: 'tls:seg', offset: 14, content: '', id: KR2p0171_CHANT_008-1a.7}
+  - {type: substitution, offset: 17, original: 罋, replacement: 甕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17994}}
+  - {type: substitution, offset: 18, original: 㡭, replacement: 繼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4141}}
   - {type: punctuation, offset: 23, content: ，, id: KR2p0171_CHANT_008-bkkpn3}
   - {type: 'tls:seg', offset: 23, content: '', id: KR2p0171_CHANT_008-1a.8}
   - {type: 'tls:seg', offset: 23, content: '', id: KR2p0171_CHANT_008-1a.9}
@@ -32,6 +34,7 @@ markers:
   - {type: punctuation, offset: 33, content: ，, id: KR2p0171_CHANT_008-bkkpn10}
   - {type: 'tls:seg', offset: 33, content: '', id: KR2p0171_CHANT_008-1a.17}
   - {type: 'tls:seg', offset: 33, content: '', id: KR2p0171_CHANT_008-1a.18}
+  - {type: substitution, offset: 34, original: 熨, replacement: 尉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20398}}
   - {type: punctuation, offset: 37, content: ，, id: KR2p0171_CHANT_008-bkkpn11}
   - {type: 'tls:seg', offset: 37, content: '', id: KR2p0171_CHANT_008-1a.19}
   - {type: 'tls:seg', offset: 37, content: '', id: KR2p0171_CHANT_008-1a.20}
@@ -52,6 +55,7 @@ markers:
   - {type: punctuation, offset: 47, content: ，, id: KR2p0171_CHANT_008-bkkpn16}
   - {type: 'tls:seg', offset: 47, content: '', id: KR2p0171_CHANT_008-2a.6}
   - {type: 'tls:seg', offset: 47, content: '', id: KR2p0171_CHANT_008-2a.7}
+  - {type: substitution, offset: 49, original: 洒, replacement: 灑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17012}}
   - {type: punctuation, offset: 51, content: 。, id: KR2p0171_CHANT_008-bkkpn17}
   - {type: 'tls:seg', offset: 51, content: '', id: KR2p0171_CHANT_008-2a.8}
   - {type: 'tls:seg', offset: 51, content: '', id: KR2p0171_CHANT_008-2a.9}
@@ -91,4 +95,4 @@ markers:
   - {type: 'tls:seg', offset: 89, content: '', id: KR2p0171_CHANT_008-3a.21}
   - {type: xml-element, offset: 89, content: '', id: KR2p0171_CHANT_008-bkkxmlele6, name: p, role: close}
   back: []
-hash: sha256:672dd5321b41a0a130b9539b13b69c742c44aaa24c58eef1c1d6689774a50127
+hash: sha256:0f358f1c4cb29cc3f4ef647366ac0f92f88b890db9e5b982b12d72511d9336f6

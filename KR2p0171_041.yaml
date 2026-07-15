@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 胻膫胻膫治胻膫取陳黍叔冶以犬膽和以傅一取無夷中𩅢冶豶膏以䊟熱膏沃冶中和以傅一取雉弍孰者餘疾鷄羽自解隋其尾皆燔冶取灰以豬膏和傅一夏日取堇葉冬日取其本皆以甘沮而封之乾輒封其上此皆已驗
-  hash: sha256:e6db8276584c2af1fb7a3804554bde7c7525a7ace69863d362512f2ea8916d24
+  text: 胻膫胻膫治胻膫取陳黍叔冶以犬膽和以傅一取無夷中核冶豶膏以䊟熱膏沃冶中和以傅一取雉二孰者餘疾雞羽自解隋其尾皆燔冶取灰以豬膏和傅一夏日取堇葉冬日取其本皆以甘沮而封之乾輒封其上此皆已驗
+  hash: sha256:d7601cb0c9d47db05233c4dcff3b0493ec73954133d4fdf5b6967785a55794a8
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_041-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0171.xml
-hash: sha256:41b3b48ea0ef07c0e467bae66cbe78d7a1f2da1909be25b6a52b3c0dfe584e98
+hash: sha256:dbf170d360a7bae7f4ce7171119d3280a52eb0f1cc7da9b934bc5d2b95133b5a

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 冥冥病方冥者蟲所齧穿者其所發毋恒處或在鼻或在口旁或齒齦或在手指使人鼻抉指斷治之以鮮產魚而以鹽財和之以傅蟲所齧之病已止嘗試毋禁令
-  hash: sha256:c03bfe9750a7c43fe9d3cc642f0228559fede86a4bbf8a0e46511b2a5ad2ccd2
+  text: 冥冥病方冥者蟲所齧穿者其所發毋恆處或在鼻或在口旁或齒齦或在手指使人鼻抉指斷治之以鮮産魚而以鹽財和之以傅蟲所齧之病已止嘗試毋禁令
+  hash: sha256:1f543061d705e087e13013da15a29b9be1fffb913bb581a39813f8010d8d3831
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_019-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0171.xml
-hash: sha256:2c4d5f24bb367e32bb049a572540754b4f851301270b58ba4bfd165bf86d1357
+hash: sha256:49bdc624b59824687394228be9cb7989f54a1c268d6a0f4de8c45f140c77e1b5

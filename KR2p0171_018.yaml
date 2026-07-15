@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 大帶大帶者燔與久膏而傅之一以清煮膠以涂之
-  hash: sha256:dfe089b1b39265eb6f4ccea80095c74bed1f9707ccec1e0f67aad26f8a153619
+  text: 大帶大帶者燔與久膏而傅之一以清煮膠以塗之
+  hash: sha256:42a568fafebefc70dcc5409490e74e4c75c13c5a4b21ba761ac1a052de45be2b
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_018-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0171.xml
-hash: sha256:a3f2dfad64bdc0fb67037fa2b256b4530ac0f1209717c8fa8a5cd0acb7328153
+hash: sha256:f74c2a80a2fabfcb68a5b934202bba370e793a90da60b4eea8e458138353298c

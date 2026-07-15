@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 脈者脈者取野獸肉食者五物之毛等燔冶合撓誨旦先食取三指大撮三以溫酒一杯和飲之到莫有先食飲如前數恒服藥廿日雖久病必服藥時禁毋食彘肉鮮魚嘗試
-  hash: sha256:b4f6c9f32d82c634a4121dcf19bace20d83e3bb52368fce0b9f67ebd4640c3ce
+  text: 脈者脈者取野獸肉食者五物之毛等燔冶合撓誨旦先食取三指大撮三以溫酒一杯和飲之到莫有先食飲如前數恆服藥草日雖久病必服藥時禁毋食彘肉鮮魚嘗試
+  hash: sha256:62ba8ebd4d5380a8104e0da9e514a90104b16a23aeb0ccf7c3e36715d02d7e53
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0171_CHANT_034-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0171.xml
-hash: sha256:af1fcab9940a212cd7b0f1df5442b3ac677ea20064b5ea34300911f995e55c77
+hash: sha256:b67ef363439a84a942e7f1a43eb72367ececbb96ecceb71b24f70a85655ecedc
